@@ -186,7 +186,7 @@ function App() {
               <h3 className="text-2xl font-semibold mb-6 text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-blue-200">ติดต่อเรา</h3>
               <div className="space-y-3">
                 <p className="text-gray-300">วิทยาลัยอาชีวศึกษาแพร่</p>
-                <p className="text-gray-300">We R Chee wa</p>
+                <p className="text-gray-300">วิทยาลัยเทคนิคแพร่</p>
               </div>
             </div>
             <div className="space-y-4">
@@ -205,7 +205,7 @@ function App() {
             </div>
           </div>
           <div className="border-t border-gray-700 mt-12 pt-8 text-center">
-            <p className="text-gray-400">&copy; {new Date().getFullYear()} SOS GO. พัฒนาโดย วิทยาลัยอาชีวศึกษาแพร่ และ We R Chee wa</p>
+            <p className="text-gray-400">&copy; {new Date().getFullYear()} SOS GO. พัฒนาโดย นักศึกษาสาขาวิชาเทคโนโลยีสารสนเทศ ป.ตรี วท.แพร่</p>
           </div>
         </div>
       </footer>
